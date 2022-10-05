@@ -141,12 +141,12 @@ const section = () => {
           />
           <StaticImage
             className="object-cover w-full h-48 rounded shadow-lg"
-            src="https://res.cloudinary.com/asrmegamart/image/upload/v1664964364/Asrmegamart/images/poster1_nahhzh.jpg"
+            src="https://res.cloudinary.com/asrmegamart/image/upload/v1664969914/Asrmegamart/images/poster1_1_jtpee9.jpg"
             alt=""
           />
           <StaticImage
             className="object-cover w-full h-48 rounded shadow-lg"
-            src="https://res.cloudinary.com/asrmegamart/image/upload/v1664964364/Asrmegamart/images/poster2_d0eyga.jpg"
+            src="https://res.cloudinary.com/asrmegamart/image/upload/v1664969913/Asrmegamart/images/poster2_1_p64a0s.jpg"
             alt=""
           />
         </div>
