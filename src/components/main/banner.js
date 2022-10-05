@@ -54,7 +54,7 @@ const banner = () => {
 </div>
 <br /> <div>
             <Link
-              href="/"
+              href="https://rzp.io/l/100-days-challenge"
               className="inline-flex items-center text-xl md:text-xl justify-center h-12 px-6 font-semibold tracking-wide text-dark-900 transition duration-200 rounded shadow-md hover:text-deep-purple-900 bg-yellow-accent-400  focus:shadow-outline focus:outline-none"
             >
               Join Challenge Now

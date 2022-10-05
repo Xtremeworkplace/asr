@@ -1,6 +1,5 @@
 import * as React from "react"
-import { Link } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
+
 
 import Banner from "../components/main/banner"
 import Section from "../components/main/section"
@@ -18,7 +17,7 @@ const IndexPage = () => (
    <Banner />
 <Section />
 <Bonus />
-
+<Pay/>
 <Footer />
 
 

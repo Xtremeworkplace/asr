@@ -251,6 +251,69 @@ const bonus = () => {
 
 
         </li>
+        <li className="flex">
+        <span className="mr-1">
+          <svg
+            className="w-5 h-5 mt-px text-deep-purple-accent-400"
+            stroke="currentColor"
+            viewBox="0 0 52 52"
+          >
+            <polygon
+              strokeWidth="4"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              fill="none"
+              points="29 13 14 29 25 29 23 39 38 23 27 23"
+            />
+          </svg>
+        </span>
+        Spoken English- Beginners(Worth $99)
+
+
+
+      </li>
+      <li className="flex">
+      <span className="mr-1">
+        <svg
+          className="w-5 h-5 mt-px text-deep-purple-accent-400"
+          stroke="currentColor"
+          viewBox="0 0 52 52"
+        >
+          <polygon
+            strokeWidth="4"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            fill="none"
+            points="29 13 14 29 25 29 23 39 38 23 27 23"
+          />
+        </svg>
+      </span>
+      Spoken English- Intermidate(Worth $99)
+
+
+
+    </li>
+    <li className="flex">
+    <span className="mr-1">
+      <svg
+        className="w-5 h-5 mt-px text-deep-purple-accent-400"
+        stroke="currentColor"
+        viewBox="0 0 52 52"
+      >
+        <polygon
+          strokeWidth="4"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          fill="none"
+          points="29 13 14 29 25 29 23 39 38 23 27 23"
+        />
+      </svg>
+    </span>
+    Spoken English- Advance(Worth $99)
+
+
+
+  </li>
 
 
 
@@ -262,7 +325,7 @@ const bonus = () => {
         <div>
           <StaticImage 
             className="object-cover w-full h-56 rounded shadow-lg sm:h-96"
-            src="https://images.pexels.com/photos/927022/pexels-photo-927022.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260"
+            src="https://res.cloudinary.com/asrmegamart/image/upload/v1664955082/Asrmegamart/images/poster_sewak0.png"
             alt=""
           />
         </div>
