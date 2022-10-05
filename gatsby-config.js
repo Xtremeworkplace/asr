@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Asr Mega Mart`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    description: `Gain unlimited ON-DEMAND access to Anuj Sharma entire library of Marketing, Mindset and Momentum coaching. Over three years worth of life-changing knowledge that you can go back and revisit at any time, on every success topic imaginable!`,
     author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
@@ -28,7 +28,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/logo.png`, // This path is relative to the root of the site.
       },
     },
   ],
